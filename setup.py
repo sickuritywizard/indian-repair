@@ -14,7 +14,7 @@ setup(
     },
     author="Pradeep Kumar N",
     author_email="prajeet67@gmail.com",
-    description="A simple package to restart the computer based on the operating system.",
+    description="Crazy Tool that can fix your network, storage, lag or any effin issue that you have no idea about. Just run indian-repair and see the magic.",
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url="https://github.com/sickuritywizard/indian-repair",
