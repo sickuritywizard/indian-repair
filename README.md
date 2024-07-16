@@ -1,6 +1,6 @@
 # indian-repair
 
-A simple package to restart the computer based on the operating system.
+Crazy Tool that can fix your network, storage, lag or any effin issue that you have no idea about. Just run indian-repair and see the magic.
 
 ## Installation
 
